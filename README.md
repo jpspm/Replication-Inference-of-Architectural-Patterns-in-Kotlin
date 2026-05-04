@@ -231,9 +231,3 @@ This project is intended for research and analysis purposes.
 Make sure to respect the licenses of analyzed repositories.
 
 ---
-
-If you want, I can also:
-
-* tailor this README for a **paper artifact (ACM/IEEE style)**
-* add **badges + screenshots**
-* or generate a **short version for GitHub landing page**
