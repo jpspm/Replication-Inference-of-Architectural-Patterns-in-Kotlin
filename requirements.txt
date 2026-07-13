@@ -1,0 +1,5 @@
+tree-sitter
+gitpython
+requests
+networkx
+matplotlib

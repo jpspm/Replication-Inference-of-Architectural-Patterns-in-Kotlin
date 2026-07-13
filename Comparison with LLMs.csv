@@ -1,0 +1,11 @@
+REPO,PIPELINE OUTPUT,DOCUMENTED ARCH,CHATGPT OUTPUT,is pipeline output correct ,is GPT Correct?
+https://github.com/mhss1/MyBrain,MVVM,MVI,MVVM,FALSE,FALSE
+https://github.com/kaushikgopal/movies-usf-android,MVVM,MVI,MVVM,FALSE,FALSE
+https://github.com/enginebai/MovieHunt,MVC,MVVM,MVVM,FALSE,TRUE
+https://github.com/TonnyL/PaperPlane,unknown,MVP,MVVM,FALSE,FALSE
+https://github.com/chaxiu/KotlinJetpackInAction,unknown,MVC,MVVM,FALSE,FALSE
+https://github.com/odaridavid/WeatherApp,MVI,MVI,MVVM,TRUE,FALSE
+https://github.com/git-xuhao/KotlinMvp,MVP,MVP,MVP,TRUE,TRUE
+https://github.com/dgngulcan/droid-feed,MVVM,MVVM,MVVM,TRUE,TRUE
+https://github.com/skydoves/pokedex-compose,MVVM,MVVM,MVVM,TRUE,TRUE
+https://github.com/Ezike/Baking-App-Kotlin,MVI,MVI,MVP,TRUE,FALSE

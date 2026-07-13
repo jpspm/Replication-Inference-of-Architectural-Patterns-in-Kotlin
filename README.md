@@ -1,3 +1,11 @@
+# Replication Package
+
+This repository contains the replication package accompanying the paper
+
+From Code to Architecture:
+Responsibility Analysis and Dependency Graphs in the Inference of Architectural Patterns in Kotlin
+
+Accepted at SBES 2026.
 
 # 🧠 Kotlin Architecture Analyzer
 
